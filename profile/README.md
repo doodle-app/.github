@@ -1,5 +1,4 @@
-# Doodle.app
+[![doodle](hero.png)](https://itunes.apple.com/app/id1503601939)
 
-## Every line tells a story.
-
-https://doodle.app
+Site: https://doodle.app
+App Store: https://itunes.apple.com/app/id1503601939
